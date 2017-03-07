@@ -1,0 +1,258 @@
+2017-03-07 02:32:10,816 MainTest     INFO     Login page open
+2017-03-07 02:32:14,118 MainTest     INFO     Login done
+2017-03-07 02:32:14,118 MainTest     INFO     Main page open
+2017-03-07 02:33:01,335 MainTest     INFO     Login page open
+2017-03-07 02:33:04,154 MainTest     INFO     Login done
+2017-03-07 02:33:04,154 MainTest     INFO     Main page open
+2017-03-07 02:33:39,871 MainTest     INFO     Login page open
+2017-03-07 02:34:03,390 MainTest     INFO     Login done
+2017-03-07 02:34:03,391 MainTest     INFO     Main page open
+2017-03-07 02:34:15,051 MainTest     INFO     Staff page open
+2017-03-07 02:34:17,336 MainTest     INFO     Window with units open
+2017-03-07 02:37:02,036 MainTest     INFO     Login page open
+2017-03-07 02:37:25,652 MainTest     INFO     Login done
+2017-03-07 02:37:25,652 MainTest     INFO     Main page open
+2017-03-07 02:37:37,817 MainTest     INFO     Staff page open
+2017-03-07 02:37:40,203 MainTest     INFO     Window with units open
+2017-03-07 02:39:28,097 MainTest     INFO     Login page open
+2017-03-07 02:39:51,399 MainTest     INFO     Login done
+2017-03-07 02:39:51,400 MainTest     INFO     Main page open
+2017-03-07 02:40:00,772 MainTest     INFO     Login page open
+2017-03-07 02:40:03,282 MainTest     INFO     Staff page open
+2017-03-07 02:40:07,610 MainTest     INFO     Window with units open
+2017-03-07 02:40:24,987 MainTest     INFO     Login done
+2017-03-07 02:40:24,987 MainTest     INFO     Main page open
+2017-03-07 02:40:36,349 MainTest     INFO     Staff page open
+2017-03-07 02:40:39,750 MainTest     INFO     Window with units open
+2017-03-07 02:40:41,213 MainTest     INFO     Person was found
+2017-03-07 02:45:30,863 MainTest     INFO     Login page open
+2017-03-07 08:19:17,304 MainTest     WARNING  Login page open
+2017-03-07 08:19:50,017 MainTest     INFO     Login done
+2017-03-07 08:19:50,018 MainTest     WARNING  Main page open
+2017-03-07 08:20:01,801 MainTest     WARNING  Staff page open
+2017-03-07 08:20:04,849 MainTest     INFO     Window with units open
+2017-03-07 08:20:06,405 MainTest     INFO     Person was found
+2017-03-07 08:20:14,886 MainTest     INFO     Card open
+2017-03-07 08:20:15,128 MainTest     INFO     Card close
+2017-03-07 08:25:53,381 MainTest     WARNING  Login page open
+2017-03-07 08:26:26,559 MainTest     INFO     Login done
+2017-03-07 08:26:26,559 MainTest     WARNING  Main page open
+2017-03-07 08:26:36,897 MainTest     WARNING  Staff page open
+2017-03-07 08:26:39,196 MainTest     INFO     Window with units open
+2017-03-07 08:26:40,649 MainTest     INFO     Person was found
+2017-03-07 08:26:47,479 MainTest     INFO     Card open
+2017-03-07 08:26:47,815 MainTest     INFO     Card close
+2017-03-07 08:27:12,795 MainTest     WARNING  Login page open
+2017-03-07 08:27:33,992 MainTest     INFO     Login done
+2017-03-07 08:27:33,992 MainTest     WARNING  Main page open
+2017-03-07 08:27:44,603 MainTest     WARNING  Staff page open
+2017-03-07 08:27:46,873 MainTest     INFO     Window with units open
+2017-03-07 08:27:48,327 MainTest     INFO     Person was found
+2017-03-07 08:27:54,862 MainTest     INFO     Card open
+2017-03-07 08:27:55,082 MainTest     INFO     Card close
+2017-03-07 08:29:09,032 MainTest     WARNING  Login page open
+2017-03-07 08:29:26,548 MainTest     INFO     Login done
+2017-03-07 08:29:26,549 MainTest     WARNING  Main page open
+2017-03-07 08:29:36,025 MainTest     WARNING  Staff page open
+2017-03-07 08:30:29,047 MainTest     WARNING  Login page open
+2017-03-07 08:31:07,107 MainTest     WARNING  Login page open
+2017-03-07 08:31:29,839 MainTest     INFO     Login done
+2017-03-07 08:31:29,839 MainTest     WARNING  Main page open
+2017-03-07 08:31:41,990 MainTest     WARNING  Staff page open
+2017-03-07 08:31:44,352 MainTest     INFO     Window with units open
+2017-03-07 08:31:46,000 MainTest     INFO     Person was found
+2017-03-07 08:31:52,650 MainTest     INFO     Card open
+2017-03-07 08:31:52,953 MainTest     INFO     Card close
+2017-03-07 08:31:53,791 MainTest     INFO     Menu open
+2017-03-07 08:35:17,182 MainTest     WARNING  Login page open
+2017-03-07 08:35:37,023 MainTest     INFO     Login done
+2017-03-07 08:35:37,023 MainTest     WARNING  Main page open
+2017-03-07 08:35:47,227 MainTest     WARNING  Staff page open
+2017-03-07 08:35:49,015 MainTest     INFO     Window with units open
+2017-03-07 08:35:50,496 MainTest     INFO     Person was found
+2017-03-07 08:35:55,886 MainTest     INFO     Card open
+2017-03-07 08:35:56,120 MainTest     INFO     Card close
+2017-03-07 08:38:00,946 MainTest     WARNING  Login page open
+2017-03-07 08:38:21,385 MainTest     INFO     Login done
+2017-03-07 08:38:21,385 MainTest     WARNING  Main page open
+2017-03-07 08:38:32,581 MainTest     WARNING  Staff page open
+2017-03-07 08:38:34,816 MainTest     INFO     Window with units open
+2017-03-07 08:38:36,239 MainTest     INFO     Person was found
+2017-03-07 08:38:41,986 MainTest     INFO     Card open
+2017-03-07 08:38:42,211 MainTest     INFO     Card close
+2017-03-07 08:39:36,094 MainTest     WARNING  Login page open
+2017-03-07 08:39:59,657 MainTest     INFO     Login done
+2017-03-07 08:39:59,657 MainTest     WARNING  Main page open
+2017-03-07 08:40:12,388 MainTest     WARNING  Staff page open
+2017-03-07 08:40:14,192 MainTest     WARNING  Login page open
+2017-03-07 08:40:15,293 MainTest     INFO     Window with units open
+2017-03-07 08:40:16,774 MainTest     INFO     Person was found
+2017-03-07 08:40:25,647 MainTest     INFO     Card open
+2017-03-07 08:40:25,882 MainTest     INFO     Card close
+2017-03-07 08:40:39,214 MainTest     INFO     Login done
+2017-03-07 08:40:39,214 MainTest     WARNING  Main page open
+2017-03-07 08:40:49,932 MainTest     WARNING  Staff page open
+2017-03-07 08:40:52,236 MainTest     INFO     Window with units open
+2017-03-07 08:40:53,705 MainTest     INFO     Person was found
+2017-03-07 08:41:02,036 MainTest     INFO     Card open
+2017-03-07 08:41:02,261 MainTest     INFO     Card close
+2017-03-07 08:42:11,674 MainTest     WARNING  Login page open
+2017-03-07 08:42:33,665 MainTest     INFO     Login done
+2017-03-07 08:42:33,665 MainTest     WARNING  Main page open
+2017-03-07 08:42:45,288 MainTest     WARNING  Staff page open
+2017-03-07 08:42:47,701 MainTest     INFO     Window with units open
+2017-03-07 08:42:49,162 MainTest     INFO     Person was found
+2017-03-07 08:42:55,625 MainTest     INFO     Card open
+2017-03-07 08:42:55,869 MainTest     INFO     Card close
+2017-03-07 08:45:44,856 MainTest     WARNING  Login page open
+2017-03-07 08:46:04,714 MainTest     INFO     Login done
+2017-03-07 08:46:04,714 MainTest     WARNING  Main page open
+2017-03-07 08:46:15,494 MainTest     WARNING  Staff page open
+2017-03-07 08:46:17,837 MainTest     INFO     Window with units open
+2017-03-07 08:46:19,275 MainTest     INFO     Person was found
+2017-03-07 08:46:25,161 MainTest     INFO     Card open
+2017-03-07 08:46:25,416 MainTest     INFO     Card close
+2017-03-07 08:49:34,885 MainTest     WARNING  Login page open
+2017-03-07 08:49:41,807 MainTest     WARNING  Login page open
+2017-03-07 08:49:58,303 MainTest     INFO     Login done
+2017-03-07 08:49:58,303 MainTest     WARNING  Main page open
+2017-03-07 08:50:03,647 MainTest     INFO     Login done
+2017-03-07 08:50:03,647 MainTest     WARNING  Main page open
+2017-03-07 08:50:08,937 MainTest     WARNING  Staff page open
+2017-03-07 08:50:13,298 MainTest     INFO     Window with units open
+2017-03-07 08:50:14,874 MainTest     WARNING  Staff page open
+2017-03-07 08:50:14,895 MainTest     INFO     Person was found
+2017-03-07 08:50:17,655 MainTest     INFO     Window with units open
+2017-03-07 08:50:19,066 MainTest     INFO     Person was found
+2017-03-07 08:50:22,913 MainTest     INFO     Card open
+2017-03-07 08:50:23,133 MainTest     INFO     Card close
+2017-03-07 08:50:27,887 MainTest     INFO     Card open
+2017-03-07 08:50:28,123 MainTest     INFO     Card close
+2017-03-07 08:50:38,260 MainTest     INFO     Menu open
+2017-03-07 08:51:13,854 MainTest     WARNING  Login page open
+2017-03-07 08:51:36,148 MainTest     INFO     Login done
+2017-03-07 08:51:36,148 MainTest     WARNING  Main page open
+2017-03-07 08:51:46,803 MainTest     WARNING  Staff page open
+2017-03-07 08:51:49,225 MainTest     INFO     Window with units open
+2017-03-07 08:51:50,696 MainTest     INFO     Person was found
+2017-03-07 08:51:56,400 MainTest     INFO     Card open
+2017-03-07 08:51:56,679 MainTest     INFO     Card close
+2017-03-07 08:55:32,455 MainTest     WARNING  Login page open
+2017-03-07 08:55:39,444 MainTest     WARNING  Login page open
+2017-03-07 08:55:56,869 MainTest     INFO     Login done
+2017-03-07 08:55:56,869 MainTest     WARNING  Main page open
+2017-03-07 08:56:07,588 MainTest     INFO     Login done
+2017-03-07 08:56:07,589 MainTest     WARNING  Main page open
+2017-03-07 08:56:10,645 MainTest     WARNING  Staff page open
+2017-03-07 08:56:12,894 MainTest     INFO     Window with units open
+2017-03-07 08:56:14,987 MainTest     INFO     Person was found
+2017-03-07 08:56:18,384 MainTest     WARNING  Staff page open
+2017-03-07 08:56:22,134 MainTest     INFO     Card open
+2017-03-07 08:56:22,227 MainTest     INFO     Window with units open
+2017-03-07 08:56:22,438 MainTest     INFO     Card close
+2017-03-07 08:56:24,023 MainTest     INFO     Person was found
+2017-03-07 08:56:37,005 MainTest     INFO     Card open
+2017-03-07 08:56:37,207 MainTest     INFO     Card close
+2017-03-07 09:01:16,662 MainTest     WARNING  Login page open
+2017-03-07 09:03:00,870 MainTest     WARNING  Login page open
+2017-03-07 09:04:24,629 MainTest     INFO     Login done
+2017-03-07 09:04:24,629 MainTest     WARNING  Main page open
+2017-03-07 09:05:07,090 MainTest     WARNING  Login page open
+2017-03-07 09:05:28,599 MainTest     INFO     Login done
+2017-03-07 09:05:28,599 MainTest     WARNING  Main page open
+2017-03-07 09:05:38,603 MainTest     WARNING  Staff page open
+2017-03-07 09:05:40,864 MainTest     INFO     Window with units open
+2017-03-07 09:05:42,380 MainTest     INFO     Person was found
+2017-03-07 09:05:47,766 MainTest     INFO     Card open
+2017-03-07 09:05:48,028 MainTest     INFO     Card close
+2017-03-07 09:06:03,153 MainTest     INFO     Menu open
+2017-03-07 09:07:28,760 MainTest     WARNING  Login page open
+2017-03-07 09:07:57,123 MainTest     INFO     Login done
+2017-03-07 09:07:57,124 MainTest     WARNING  Main page open
+2017-03-07 09:08:10,570 MainTest     WARNING  Staff page open
+2017-03-07 09:08:12,805 MainTest     INFO     Window with units open
+2017-03-07 09:08:14,808 MainTest     INFO     Person was found
+2017-03-07 09:08:21,658 MainTest     INFO     Card open
+2017-03-07 09:08:21,868 MainTest     INFO     Card close
+2017-03-07 09:08:36,982 MainTest     INFO     Menu open
+2017-03-07 09:09:28,504 MainTest     WARNING  Login page open
+2017-03-07 09:09:57,857 MainTest     INFO     Login done
+2017-03-07 09:09:57,858 MainTest     WARNING  Main page open
+2017-03-07 09:10:14,962 MainTest     WARNING  Staff page open
+2017-03-07 09:11:06,033 MainTest     INFO     Window with units open
+2017-03-07 09:11:07,602 MainTest     INFO     Person was found
+2017-03-07 09:11:12,774 MainTest     INFO     Card open
+2017-03-07 09:11:12,983 MainTest     INFO     Card close
+2017-03-07 09:11:28,116 MainTest     INFO     Menu open
+2017-03-07 09:13:36,635 MainTest     WARNING  Login page open
+2017-03-07 09:14:01,782 MainTest     INFO     Login done
+2017-03-07 09:14:01,782 MainTest     WARNING  Main page open
+2017-03-07 09:14:17,547 MainTest     WARNING  Staff page open
+2017-03-07 09:14:19,824 MainTest     INFO     Window with units open
+2017-03-07 09:14:21,339 MainTest     INFO     Person was found
+2017-03-07 09:14:36,552 MainTest     INFO     Card open
+2017-03-07 09:14:36,748 MainTest     INFO     Card close
+2017-03-07 09:15:56,983 MainTest     WARNING  Login page open
+2017-03-07 09:16:23,915 MainTest     INFO     Login done
+2017-03-07 09:16:23,916 MainTest     WARNING  Main page open
+2017-03-07 09:16:37,799 MainTest     WARNING  Staff page open
+2017-03-07 09:16:40,035 MainTest     INFO     Window with units open
+2017-03-07 09:16:41,632 MainTest     INFO     Person was found
+2017-03-07 09:16:48,413 MainTest     INFO     Card open
+2017-03-07 09:16:48,640 MainTest     INFO     Card close
+2017-03-07 09:17:03,781 MainTest     INFO     Menu open
+2017-03-07 09:18:01,835 MainTest     WARNING  Login page open
+2017-03-07 09:18:25,064 MainTest     INFO     Login done
+2017-03-07 09:18:25,064 MainTest     WARNING  Main page open
+2017-03-07 09:18:40,264 MainTest     WARNING  Staff page open
+2017-03-07 09:18:43,044 MainTest     INFO     Window with units open
+2017-03-07 09:18:44,513 MainTest     INFO     Person was found
+2017-03-07 09:18:51,251 MainTest     INFO     Card open
+2017-03-07 09:18:51,446 MainTest     INFO     Card close
+2017-03-07 09:19:06,576 MainTest     INFO     Menu open
+2017-03-07 09:19:12,084 MainTest     INFO     Exit done
+2017-03-07 09:19:12,084 MainTest     WARNING  Exit done
+2017-03-07 09:19:12,084 MainTest     WARNING  Test done
+2017-03-07 09:29:42,147 MainTest     WARNING  Login page open
+2017-03-07 09:30:03,445 MainTest     INFO     Login done
+2017-03-07 09:30:03,446 MainTest     WARNING  Main page open
+2017-03-07 09:30:14,116 MainTest     WARNING  Staff page open
+2017-03-07 09:30:17,949 MainTest     INFO     Window with units open
+2017-03-07 09:30:19,468 MainTest     INFO     Person was found
+2017-03-07 09:30:27,104 MainTest     INFO     Card open
+2017-03-07 09:31:18,981 MainTest     WARNING  Login page open
+2017-03-07 09:31:53,466 MainTest     INFO     Login done
+2017-03-07 09:31:53,467 MainTest     WARNING  Main page open
+2017-03-07 09:32:06,472 MainTest     WARNING  Staff page open
+2017-03-07 09:32:08,289 MainTest     INFO     Window with units open
+2017-03-07 09:32:09,797 MainTest     INFO     Person was found
+2017-03-07 09:32:21,160 MainTest     INFO     Card open
+2017-03-07 09:32:26,252 MainTest     INFO     Card close
+2017-03-07 09:32:42,576 MainTest     INFO     Menu open
+2017-03-07 09:32:47,519 MainTest     INFO     Exit done
+2017-03-07 09:32:47,519 MainTest     WARNING  Exit done
+2017-03-07 09:32:47,519 MainTest     WARNING  Test done
+2017-03-07 09:38:25,645 MainTest     WARNING  Login page open
+2017-03-07 09:38:50,853 MainTest     INFO     Login done
+2017-03-07 09:38:50,854 MainTest     WARNING  Main page open
+2017-03-07 09:39:02,525 MainTest     WARNING  Staff page open
+2017-03-07 09:39:05,290 MainTest     INFO     Window with units open
+2017-03-07 09:39:06,823 MainTest     INFO     Person was found
+2017-03-07 09:39:13,581 MainTest     INFO     Card open
+2017-03-07 09:39:18,693 MainTest     INFO     Card close
+2017-03-07 09:39:35,036 MainTest     INFO     Menu open
+2017-03-07 09:39:40,108 MainTest     INFO     Exit done
+2017-03-07 09:39:40,108 MainTest     WARNING  Exit done
+2017-03-07 09:39:40,108 MainTest     WARNING  Test done
+2017-03-07 09:46:51,613 MainTest     WARNING  Login page open
+2017-03-07 09:47:15,043 MainTest     INFO     Login done
+2017-03-07 09:47:15,043 MainTest     WARNING  Main page open
+2017-03-07 09:47:26,967 MainTest     WARNING  Staff page open
+2017-03-07 09:47:30,331 MainTest     INFO     Window with units open
+2017-03-07 09:47:32,904 MainTest     INFO     Person was found
+2017-03-07 09:47:42,833 MainTest     INFO     Card open
+2017-03-07 09:47:47,948 MainTest     INFO     Card close
+2017-03-07 09:48:04,169 MainTest     INFO     Menu open
+2017-03-07 09:48:09,151 MainTest     INFO     Exit done
+2017-03-07 09:48:09,152 MainTest     WARNING  Exit done
+2017-03-07 09:48:09,152 MainTest     WARNING  Test done
